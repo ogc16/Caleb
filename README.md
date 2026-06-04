@@ -2,7 +2,7 @@
 ---
 
 ## Profile
-IT consultant with growing expertise in **Object-Oriented Analysis and Design (OOAD)**, **Software development**, **Web/Mobile app development** focused on building scalable, secure by design, user-friendly applications with clean architecture and intuitive interfaces.
+IT consultant with growing expertise in **Object-Oriented Analysis and Design (OOAD)**, **Software development**, **Web/Mobile app development** focused on building scalable, secure by design, user-centric solutions.
 
 ---
 
@@ -34,16 +34,64 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
   Installed and configured SDKs and tools (Expo, Xcode, IntelliJ IDEA) for cross-platform app development.
 
 ---
-```mermaid
-pie title Projects Distribution
-    "Python" : 5
-    "JavaScript/JavaScript" : 15
-    "Java" : 1
-    "C++" : 1
-    "Go" : 1
-    "Flutter" : 3
-    
-```
+
+## Projects Distribution
+
+<div style="width: 80%; max-width: 600px; margin: 20px auto;">
+  <canvas id="projectChart"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx = document.getElementById('projectChart').getContext('2d');
+  const projectChart = new Chart(ctx, {
+    type: 'doughnut',
+    data: {
+      labels: ['JavaScript', 'Python', 'Flutter', 'Java', 'C++', 'Go'],
+      datasets: [{
+        data: [15, 5, 3, 1, 1, 1],
+        backgroundColor: [
+          '#F7DF1E',
+          '#3776ab',
+          '#0175C2',
+          '#007396',
+          '#00599C',
+          '#00ADD8'
+        ],
+        borderColor: [
+          '#ffffff',
+          '#ffffff',
+          '#ffffff',
+          '#ffffff',
+          '#ffffff',
+          '#ffffff'
+        ],
+        borderWidth: 2
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: {
+          position: 'bottom',
+          labels: {
+            padding: 20,
+            font: {
+              size: 14
+            }
+          }
+        },
+        title: {
+          display: true,
+          text: 'Projects Distribution by Language',
+          font: {
+            size: 16
+          }
+        }
+      }
+    }
+  });
+</script>
 
 ---
 
