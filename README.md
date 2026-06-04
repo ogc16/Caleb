@@ -47,17 +47,17 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
   const projectChart = new Chart(ctx, {
     type: 'doughnut',
     data: {
-      labels: ['JavaScript', 'Python', 'Flutter', 'Java', 'C++', 'Go'],
+      labels: ['JavaScript/TypeScript', 'Python', 'Flutter', 'Java', 'C++', 'Go'],
       datasets: [{
         data: [15, 5, 3, 1, 1, 1],
-        backgroundColor: [
-          '#F7DF1E',
-          '#3776ab',
-          '#0175C2',
-          '#007396',
-          '#00599C',
-          '#00ADD8'
-        ],
+     backgroundColor: [
+  '#3776AB', // Python
+  '#02569B', // Flutter
+  '#ED8B00', // Java
+  '#659AD2', // C++
+  '#F7DF1E', // JavaScript
+  '#00ADD8'  // Go
+],
         borderColor: [
           '#ffffff',
           '#ffffff',
