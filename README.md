@@ -1,11 +1,11 @@
 # Caleb — CV Portfolio
 
-A personal portfolio presented in CV format, showcasing my background, skills, and projects in software development and design.
+A personal portfolio presented in CV format, showcasing background, skills, and projects in software development and design.
 
 ---
 
 ## 👤 Profile
-I am Caleb, a developer with growing expertise in **Object-Oriented Analysis and Design (OOAD)**, **mobile app development**, and **UI/UX design**. My focus is on building scalable, user-friendly applications with clean architecture and intuitive interfaces.
+IT consultant with growing expertise in **Object-Oriented Analysis and Design (OOAD)**,**Software development**, **Web/Mobile app development**, and **UI/UX design**. My focus is on building scalable, user-friendly applications with clean architecture and intuitive interfaces.
 
 ---
 
@@ -46,9 +46,9 @@ I am Caleb, a developer with growing expertise in **Object-Oriented Analysis and
 ---
 
 ## 📫 Contact
-- Email: [caleb@example.com](mailto:caleb@example.com)  
-- Phone: [+256-700-000000](tel:+256700000000)  
-- LinkedIn: [Caleb’s Profile](ca://s?q=Show_me_Caleb_LinkedIn_profile)
+- Email: [ngenokibetcaleb@gmail.com](mailto:ngenokibetcaleb@gmail.com)  
+- Phone: [+254 703 871 410](tel:+254703871410)  
+- LinkedIn: [Caleb Kibet](https://www.linkedin.com/in/caleb-kibet-834020362)
 
 ---
 
