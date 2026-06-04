@@ -1,6 +1,4 @@
 
-A personal portfolio presented in CV format, showcasing background, skills, and projects in software development and design.
-
 ---
 
 ## 👤 Profile
