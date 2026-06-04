@@ -41,6 +41,7 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 
 <script>
 const ctx = document.getElementById('projectChart').getContext('2d');
