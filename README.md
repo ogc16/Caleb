@@ -1,2 +1,2 @@
-# WEbsiteCaleb
+# Caleb
  Personal website
