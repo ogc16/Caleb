@@ -35,55 +35,70 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 
 ---
 
+```html
 <div style="max-width: 600px; margin: 20px auto;">
   <canvas id="projectChart"></canvas>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
 <script>
-  const ctx = document.getElementById('projectChart').getContext('2d');
-  const projectChart = new Chart(ctx, {
-    type: 'doughnut',
-    data: {
-      labels: ['TypeScript/JavaScript', 'Python', 'Flutter', 'Java', 'C++', 'Go'],
-      datasets: [{
-        data: [15, 5, 5, 1, 1, 1],
-         '#3178C6', // TypeScript
-  '#3776AB', // Python
-  //'#F7DF1E', // JavaScript
-  '#42A5F5', // Flutter
-  '#E76F00', // Java
-  '#9C27B0', // C++
-  '#00ADD8'  // Go
-        ],
-        borderColor: '#ffffff',
-        borderWidth: 2
-      }]
-    },
-    options: {
-      responsive: true,
-      maintainAspectRatio: true,
-      plugins: {
-        legend: {
-          position: 'bottom',
-          labels: {
-            padding: 15,
-            font: {
-              size: 14
-            }
-          }
-        },
-        title: {
-          display: true,
-          text: 'Projects Distribution by Language',
+const ctx = document.getElementById('projectChart').getContext('2d');
+
+new Chart(ctx, {
+  type: 'doughnut',
+  data: {
+    labels: [
+      'TypeScript / JavaScript',
+      'Python',
+      'Flutter',
+      'Java',
+      'C++',
+      'Go'
+    ],
+    datasets: [{
+      data: [13, 5, 3, 1, 1, 1],
+      backgroundColor: [
+        '#3178C6', // TypeScript / JavaScript
+        '#3776AB', // Python
+        '#42A5F5', // Flutter
+        '#E76F00', // Java
+        '#9C27B0', // C++
+        '#00ADD8'  // Go
+      ],
+      borderColor: '#ffffff',
+      borderWidth: 2,
+      hoverOffset: 8
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: true,
+    plugins: {
+      title: {
+        display: true,
+        text: 'Projects Distribution by Technology',
+        font: {
+          size: 18,
+          weight: 'bold'
+        }
+      },
+      legend: {
+        position: 'bottom',
+        labels: {
+          padding: 20,
+          usePointStyle: true,
           font: {
             size: 13
           }
         }
       }
     }
-  });
+  }
+});
 </script>
+```
+
 
 ---
 
