@@ -48,14 +48,13 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
       labels: ['TypeScript/JavaScript', 'Python', 'Flutter', 'Java', 'C++', 'Go'],
       datasets: [{
         data: [15, 5, 5, 1, 1, 1],
-        backgroundColor: [
-          '#3178C6',
-          '#3776AB',
-          '#F7DF1E',
-          '#02569B',
-          '#007396',
-          '#00599C',
-          '#00ADD8'
+         '#3178C6', // TypeScript
+  '#3776AB', // Python
+  //'#F7DF1E', // JavaScript
+  '#42A5F5', // Flutter
+  '#E76F00', // Java
+  '#9C27B0', // C++
+  '#00ADD8'  // Go
         ],
         borderColor: '#ffffff',
         borderWidth: 2
