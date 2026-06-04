@@ -13,7 +13,7 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 - **[Flutter](ca://s?q=Explain_Flutter_skills)** — Beginner, exploring cross-platform mobile development.
 - **[Kotlin](ca://s?q=Explain_Kotlin_skills)** — Beginner, Android development fundamentals.
 - **[UML Diagrams](ca://s?q=Explain_UML_diagrams)** — Conceptual modeling and OOAD assignments.
-- **Development Tools**: Expo, Xcode, IntelliJ IDEA, Safe Exam Browser (SEB).
+- **[Development Tools](ca://s?q=Explain_Developer_Tools)**: Expo, Xcode, IntelliJ IDEA, Safe Exam Browser (SEB).
 
 ---
 
