@@ -35,7 +35,6 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 
 ---
 
-## Projects Distribution
 
 <div style="width: 80%; max-width: 600px; margin: 20px auto;">
   <canvas id="projectChart"></canvas>
@@ -47,15 +46,15 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
   const projectChart = new Chart(ctx, {
     type: 'doughnut',
     data: {
-      labels: ['JavaScript/TypeScript', 'Python', 'Flutter', 'Java', 'C++', 'Go','Others'],
+      labels: ['JavaScript/TypeScript', 'Python', 'Flutter', 'Swift', 'C++', 'Go','Others'],
       datasets: [{
-        data: [15, 5, 3, 1, 1, 1, 4],
+        data: [19, 8, 3, 1, 1, 2, 4],
      backgroundColor: [
        '#3178c6', // JavaScript/TypeScript
         '#116191', // Python
-        '#02569B', // Flutter
-        '#bf2a0d', // Java
-        '#060d99', // C++
+        '#2482e3', // Flutter
+        '#bf2a0d', // Swift
+        '#de83bb', // C++
         '#1297b5',  // Go
         '#e3c712' //Others
 ],
