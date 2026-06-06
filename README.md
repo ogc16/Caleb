@@ -36,6 +36,9 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 - **Mobile Development Environments**  
   Installed and configured SDKs and tools (Expo, Xcode, IntelliJ IDEA) for cross-platform app development.
 
+- **[House](https://ogc16.github.io/house/)**
+  Web view of an Architectural design and proposed floor plan.
+
 ---
 
 
