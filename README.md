@@ -23,9 +23,8 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 ---
 
 ##  Projects
-- **[FoodApp — Food Delivery](ca://s?q=Describe_FoodApp_project)**  
-  Developed a modern food delivery platform with sleek UI, ordering functionality, and curated Unsplash imagery.  
-  Deployed using Hercules framework.
+- **[Parcel Delivery App](https://parcelapp.expo.app/)**  
+  Developed a modern parcel delivery platform with sleek UI, ordering functionality, and curated Unsplash imagery.  
 
 - **[News Aggregator](https://aggregatorx1.netlify.app/)**
   News aggregator covering sports, crypto & tech — built with React + Vite and a Node.js scraping backend (Cheerio). Features auth, bookmarks, dark mode, and social sharing via Supabase.
