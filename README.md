@@ -143,5 +143,13 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 
 ---
 
-##  Career Goals
-To grow as a full-stack developer, specialize in **mobile app development**, and contribute to impactful projects that merge technology with user-centered design.
+## Professional Focus
+
+I specialize in **technical leadership**, architecting and scaling resilient full‑stack ecosystems with a strong emphasis on optimized mobile applications and performance‑driven user interfaces. Through **user‑centered engineering**, I bridge the gap between complex backend infrastructure and intuitive client‑side experiences, delivering high‑impact, production‑ready software solutions. My work is guided by a commitment to **innovation and impact**, leading technical strategy for emerging digital products while fostering best practices in code quality, security, and agile execution.
+
+<p align="right">
+  <a href="/Caleb">🔺 Back to Top</a>
+</p>
+<p align="center">
+  <small>© 2026 Ngeno Kibet Caleb.</small>
+</p>
