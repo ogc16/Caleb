@@ -33,8 +33,8 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 - **ERP Systems Research**  
   Conceptual modeling and exploration of enterprise resource planning solutions for business technology.
 
-- **Mobile Development Environments**  
-  Installed and configured SDKs and tools (Expo, Xcode, IntelliJ IDEA) for cross-platform app development.
+- **[e-commerce mobile app](https://epay.expo.app/)**  
+  Experimenting on ui.
 
 - **[House](https://ogc16.github.io/house/)**
   Web view of an Architectural design and proposed floor plan.
