@@ -143,9 +143,11 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 
 ---
 
-## Professional Focus
+## Focus
+**Technical leadership** — Architecting resilient full‑stack systems with optimized mobile apps and performance‑focused interfaces.  
+**User‑centered engineering** — Bridging complex backends with intuitive frontends to deliver production‑ready solutions.  
+**Innovation & impact** — Leading technical strategy for digital products while championing code quality, security, and agile execution.
 
-I specialize in **technical leadership**, architecting and scaling resilient full‑stack ecosystems with a strong emphasis on optimized mobile applications and performance‑driven user interfaces. Through **user‑centered engineering**, I bridge the gap between complex backend infrastructure and intuitive client‑side experiences, delivering high‑impact, production‑ready software solutions. My work is guided by a commitment to **innovation and impact**, leading technical strategy for emerging digital products while fostering best practices in code quality, security, and agile execution.
 
 <p align="right">
   <a href="/Caleb">🔺 Back to Top</a>
