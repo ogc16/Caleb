@@ -37,30 +37,30 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 <details>
 <summary>News Aggregator</summary>
 
-**Situation:** Users needed a single hub for diverse news sources.  
-**Task:** Develop a platform covering sports, crypto, and tech.  
-**Action:** Built with React + Vite frontend and Node.js scraping backend (Cheerio). Added Supabase for auth, bookmarks, dark mode, and social sharing.  
-**Result:** Created a dynamic aggregator that improves accessibility and engagement with personalized features.
+<b>Situation:</b> Users needed a single hub for diverse news sources.  <br>
+<b>Task:</b> Develop a platform covering sports, crypto, and tech.  <br>
+<b>Action:</b> Built with React + Vite frontend and Node.js scraping backend (Cheerio). Added Supabase for auth, bookmarks, dark mode, and social sharing.  <br>
+<b>Result:</b> Created a dynamic aggregator that improves accessibility and engagement with personalized features. <br>
 
 </details>
 
 <details>
 <summary>E-commerce Mobile App</summary>
 
-**Situation:** Need for experimentation with mobile commerce interfaces.  
-**Task:** Prototype UI for an e-commerce app.  
-**Action:** Designed and tested user interface components to evaluate usability.  
-**Result:** Established a foundation for future iterations of mobile shopping experiences.
+<b>Situation:</b> Need for experimentation with mobile commerce interfaces.  <br>
+<b>Task:</b> Prototype UI for an e-commerce app.  <br>
+<b>Action: </b> Designed and tested user interface components to evaluate usability.  <br>
+<b>Action: </b> Established a foundation for future iterations of mobile shopping experiences.<br>
 
 </details>
 
 <details>
 <summary> House Design</summary>
 
-**Situation:** Architectural visualization of residential planning.  
-**Task:** Present a proposed floor plan in web format.  
-**Action:** Created a web view showcasing architectural design and layout.  
-**Result:** Delivered an accessible digital representation of the house plan for review and presentation.
+<b>Situation: </b> Architectural visualization of residential planning.  <br>
+<b>Task: </b> Present a proposed floor plan in web format.  <br>
+<b>Action: </b> Created a web view showcasing architectural design and layout.  <br>
+<b>Action: </b> Delivered an accessible digital representation of the house plan for review and presentation.<br>
 
 </details>
 
