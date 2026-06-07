@@ -22,48 +22,51 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 
 ---
 
-##  Projects
+## Projects
 
 <details>
-<summary> Parcel Delivery App</summary>
+<summary><b>Parcel Delivery App</b> — <a href="https://parcelapp.expo.app/">Demo</a></summary>
+<br>
 
-<b>Situation:</b> Rising demand for efficient parcel delivery solutions.  <br>
-<b>Task:</b> Create a modern platform with intuitive ordering and tracking.  <br>
-<b>Action:</b> Designed a sleek UI and integrated ordering functionality with curated Unsplash imagery.  <br>
-<b>Result:</b> Delivered a responsive app that enhances user experience and streamlines parcel management. <br>
+<b>Situation:</b> Rising demand for efficient parcel delivery solutions.<br>
+<b>Task:</b> Create a modern platform with intuitive ordering and tracking.<br>
+<b>Action:</b> Designed a sleek UI and integrated ordering functionality with curated Unsplash imagery.<br>
+<b>Result:</b> Delivered a responsive app that enhances user experience and streamlines parcel management.<br>
 
 </details>
 
 <details>
-<summary>News Aggregator</summary>
+<summary><b>News Aggregator</b> — <a href="https://aggregatorx1.netlify.app/">Demo</a></summary>
+<br>
 
-<b>Situation:</b> Users needed a single hub for diverse news sources.  <br>
-<b>Task:</b> Develop a platform covering sports, crypto, and tech.  <br>
-<b>Action:</b> Built with React + Vite frontend and Node.js scraping backend (Cheerio). Added Supabase for auth, bookmarks, dark mode, and social sharing.  <br>
-<b>Result:</b> Created a dynamic aggregator that improves accessibility and engagement with personalized features. <br>
-
-</details>
-
-<details>
-<summary>E-commerce Mobile App</summary>
-
-<b>Situation:</b> Need for experimentation with mobile commerce interfaces.  <br>
-<b>Task:</b> Prototype UI for an e-commerce app.  <br>
-<b>Action: </b> Designed and tested user interface components to evaluate usability.  <br>
-<b>Action: </b> Established a foundation for future iterations of mobile shopping experiences.<br>
+<b>Situation:</b> Users needed a single hub for diverse news sources.<br>
+<b>Task:</b> Develop a platform covering sports, crypto, and tech.<br>
+<b>Action:</b> Built with React + Vite frontend and Node.js scraping backend (Cheerio). Added Supabase for auth, bookmarks, dark mode, and social sharing.<br>
+<b>Result:</b> Created a dynamic aggregator that improves accessibility and engagement with personalized features.<br>
 
 </details>
 
 <details>
-<summary> House Design</summary>
+<summary><b>E-commerce Mobile App</b> — <a href="https://epay.expo.app/">Demo</a></summary>
+<br>
 
-<b>Situation: </b> Architectural visualization of residential planning.  <br>
-<b>Task: </b> Present a proposed floor plan in web format.  <br>
-<b>Action: </b> Created a web view showcasing architectural design and layout.  <br>
-<b>Action: </b> Delivered an accessible digital representation of the house plan for review and presentation.<br>
+<b>Situation:</b> Need for experimentation with mobile commerce interfaces.<br>
+<b>Task:</b> Prototype UI for an e-commerce app.<br>
+<b>Action:</b> Designed and tested user interface components to evaluate usability.<br>
+<b>Result:</b> Established a foundation for future iterations of mobile shopping experiences.<br>
 
 </details>
 
+<details>
+<summary><b>House Design</b> — <a href="https://ogc16.github.io/house/">Demo</a></summary>
+<br>
+
+<b>Situation:</b> Architectural visualization of residential planning.<br>
+<b>Task:</b> Present a proposed floor plan in web format.<br>
+<b>Action:</b> Created a web view showcasing architectural design and layout.<br>
+<b>Result:</b> Delivered an accessible digital representation of the house plan for review and presentation.<br>
+
+</details>
 ---
 
 <div style="width: 80%; max-width: 600px; margin: 20px auto;">
