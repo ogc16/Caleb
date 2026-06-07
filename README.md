@@ -27,8 +27,8 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 <details>
 <summary> Parcel Delivery App</summary>
 
-**Situation:** Rising demand for efficient parcel delivery solutions.  
-**Task:** Create a modern platform with intuitive ordering and tracking.  
+<b>Situation:</b> Rising demand for efficient parcel delivery solutions.  
+<b>Task:</b> Create a modern platform with intuitive ordering and tracking.  
 **Action:** Designed a sleek UI and integrated ordering functionality with curated Unsplash imagery.  
 **Result:** Delivered a responsive app that enhances user experience and streamlines parcel management.
 
@@ -41,16 +41,6 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 **Task:** Develop a platform covering sports, crypto, and tech.  
 **Action:** Built with React + Vite frontend and Node.js scraping backend (Cheerio). Added Supabase for auth, bookmarks, dark mode, and social sharing.  
 **Result:** Created a dynamic aggregator that improves accessibility and engagement with personalized features.
-
-</details>
-
-<details>
-<summary>ERP Systems Research</summary>
-
-**Situation:** Businesses require scalable enterprise resource planning solutions.  
-**Task:** Explore conceptual models for ERP integration.  
-**Action:** Conducted research and modeling of ERP systems for business technology.  
-**Result:** Produced insights into ERP design, supporting future system implementations and academic work.
 
 </details>
 
